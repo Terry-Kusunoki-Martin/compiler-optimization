@@ -1,0 +1,45 @@
+2016-04-29T23:32:15+00:00 flamingo#01 I: Start test suite:0:d0.
+2016-04-29T23:32:15+00:00 flamingo#01 I: Test suite:0:d0 is successful.
+2016-04-29T23:32:15+00:00 flamingo#01 I: End test suite:0:d0.
+2016-04-29T23:32:15+00:00 flamingo#01 I: Start test suite:4:tail_recursion.
+2016-04-29T23:32:15+00:00 flamingo#01 I: Test suite:4:tail_recursion is successful.
+2016-04-29T23:32:15+00:00 flamingo#01 I: End test suite:4:tail_recursion.
+2016-04-29T23:32:15+00:00 flamingo#01 I: Start test suite:5:lecture.
+2016-04-29T23:32:15+00:00 flamingo#01 I: Test suite:5:lecture is successful.
+2016-04-29T23:32:15+00:00 flamingo#01 I: End test suite:5:lecture.
+2016-04-29T23:32:15+00:00 flamingo#01 I: Start test suite:6:overloadd.
+2016-04-29T23:32:15+00:00 flamingo#01 I: Test suite:6:overloadd is successful.
+2016-04-29T23:32:15+00:00 flamingo#01 I: End test suite:6:overloadd.
+2016-04-29T23:32:15+00:00 flamingo#01 I: Start test suite:7:let_in_decl.
+2016-04-29T23:32:15+00:00 flamingo#01 I: Test suite:7:let_in_decl is successful.
+2016-04-29T23:32:15+00:00 flamingo#01 I: End test suite:7:let_in_decl.
+2016-04-29T23:32:15+00:00 flamingo#01 I: Start test suite:8:id_in_app.
+2016-04-29T23:32:15+00:00 flamingo#01 I: Test suite:8:id_in_app is successful.
+2016-04-29T23:32:15+00:00 flamingo#01 I: End test suite:8:id_in_app.
+2016-04-29T23:32:15+00:00 flamingo#01 I: Start test suite:9:top_level_if.
+2016-04-29T23:32:15+00:00 flamingo#01 I: Test suite:9:top_level_if is successful.
+2016-04-29T23:32:15+00:00 flamingo#01 I: End test suite:9:top_level_if.
+2016-04-29T23:32:15+00:00 flamingo#01 I: Start test suite:10:prim1s.
+2016-04-29T23:32:15+00:00 flamingo#01 I: Test suite:10:prim1s is successful.
+2016-04-29T23:32:15+00:00 flamingo#01 I: End test suite:10:prim1s.
+2016-04-29T23:32:15+00:00 flamingo#01 I: Start test suite:11:c0.
+2016-04-29T23:32:15+00:00 flamingo#01 I: Test suite:11:c0 is successful.
+2016-04-29T23:32:15+00:00 flamingo#01 I: End test suite:11:c0.
+2016-04-29T23:32:15+00:00 flamingo#01 I: Start test suite:12:simplec.
+2016-04-29T23:32:15+00:00 flamingo#01 I: Test suite:12:simplec is successful.
+2016-04-29T23:32:15+00:00 flamingo#01 I: End test suite:12:simplec.
+2016-04-29T23:32:15+00:00 flamingo#01 I: Start test suite:13:writeup1c.
+2016-04-29T23:32:15+00:00 flamingo#01 I: Test suite:13:writeup1c is successful.
+2016-04-29T23:32:15+00:00 flamingo#01 I: End test suite:13:writeup1c.
+2016-04-29T23:32:15+00:00 flamingo#01 I: Start test suite:14:writeup2c.
+2016-04-29T23:32:15+00:00 flamingo#01 I: Test suite:14:writeup2c is successful.
+2016-04-29T23:32:15+00:00 flamingo#01 I: End test suite:14:writeup2c.
+2016-04-29T23:32:15+00:00 flamingo#01 I: Start test suite:15:tail_recursion.
+2016-04-29T23:32:15+00:00 flamingo#01 I: Test suite:15:tail_recursion is successful.
+2016-04-29T23:32:15+00:00 flamingo#01 I: End test suite:15:tail_recursion.
+2016-04-29T23:32:15+00:00 flamingo#01 I: Start test suite:16:lecture.
+2016-04-29T23:32:15+00:00 flamingo#01 I: Test suite:16:lecture is successful.
+2016-04-29T23:32:15+00:00 flamingo#01 I: End test suite:16:lecture.
+2016-04-29T23:32:15+00:00 flamingo#01 I: Start test suite:17:overloadc.
+2016-04-29T23:32:16+00:00 flamingo#01 I: Test suite:17:overloadc is successful.
+2016-04-29T23:32:16+00:00 flamingo#01 I: End test suite:17:overloadc.

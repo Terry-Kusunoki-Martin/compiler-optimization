@@ -1,0 +1,38 @@
+2016-04-29T02:29:16+00:00 cinnamon#01 I: Start test suite:0:d0.
+2016-04-29T02:29:16+00:00 cinnamon#01 I: Test suite:0:d0 is successful.
+2016-04-29T02:29:16+00:00 cinnamon#01 I: End test suite:0:d0.
+2016-04-29T02:29:16+00:00 cinnamon#01 I: Start test suite:4:tail_recursion.
+2016-04-29T02:29:16+00:00 cinnamon#01 I: Test suite:4:tail_recursion is successful.
+2016-04-29T02:29:16+00:00 cinnamon#01 I: End test suite:4:tail_recursion.
+2016-04-29T02:29:16+00:00 cinnamon#01 I: Start test suite:5:lecture.
+2016-04-29T02:29:16+00:00 cinnamon#01 I: Test suite:5:lecture is successful.
+2016-04-29T02:29:16+00:00 cinnamon#01 I: End test suite:5:lecture.
+2016-04-29T02:29:16+00:00 cinnamon#01 I: Start test suite:6:overloadd.
+2016-04-29T02:29:16+00:00 cinnamon#01 I: Test suite:6:overloadd is successful.
+2016-04-29T02:29:16+00:00 cinnamon#01 I: End test suite:6:overloadd.
+2016-04-29T02:29:16+00:00 cinnamon#01 I: Start test suite:7:c0.
+2016-04-29T02:29:16+00:00 cinnamon#01 I: Test suite:7:c0 is successful.
+2016-04-29T02:29:16+00:00 cinnamon#01 I: End test suite:7:c0.
+2016-04-29T02:29:16+00:00 cinnamon#01 I: Start test suite:8:simplec.
+2016-04-29T02:29:16+00:00 cinnamon#01 I: Test suite:8:simplec is successful.
+2016-04-29T02:29:16+00:00 cinnamon#01 I: End test suite:8:simplec.
+2016-04-29T02:29:16+00:00 cinnamon#01 I: Start test suite:9:writeup1c.
+2016-04-29T02:29:16+00:00 cinnamon#01 I: Test suite:9:writeup1c is successful.
+2016-04-29T02:29:16+00:00 cinnamon#01 I: End test suite:9:writeup1c.
+2016-04-29T02:29:16+00:00 cinnamon#01 I: Start test suite:10:writeup2c.
+2016-04-29T02:29:16+00:00 cinnamon#01 I: Test suite:10:writeup2c is successful.
+2016-04-29T02:29:16+00:00 cinnamon#01 I: End test suite:10:writeup2c.
+2016-04-29T02:29:16+00:00 cinnamon#01 I: Start test suite:11:tail_recursion.
+2016-04-29T02:29:16+00:00 cinnamon#01 I: Test suite:11:tail_recursion is successful.
+2016-04-29T02:29:16+00:00 cinnamon#01 I: End test suite:11:tail_recursion.
+2016-04-29T02:29:16+00:00 cinnamon#01 I: Start test suite:12:lecture.
+2016-04-29T02:29:16+00:00 cinnamon#01 E: Test suite:12:lecture exited with an error.
+2016-04-29T02:29:16+00:00 cinnamon#01 E: Failure("Not found in findknown") in test suite:12:lecture.
+2016-04-29T02:29:16+00:00 cinnamon#01 E: Raised at file "pervasives.ml", line 30, characters 22-33
+2016-04-29T02:29:16+00:00 cinnamon#01 E: Called from file "list.ml", line 73, characters 12-15
+2016-04-29T02:29:16+00:00 cinnamon#01 E: Called from file "src/oUnitRunner.ml", line 46, characters 13-26
+2016-04-29T02:29:16+00:00 cinnamon#01 E: 
+2016-04-29T02:29:16+00:00 cinnamon#01 I: End test suite:12:lecture.
+2016-04-29T02:29:16+00:00 cinnamon#01 I: Start test suite:13:overloadc.
+2016-04-29T02:29:18+00:00 cinnamon#01 I: Test suite:13:overloadc is successful.
+2016-04-29T02:29:18+00:00 cinnamon#01 I: End test suite:13:overloadc.

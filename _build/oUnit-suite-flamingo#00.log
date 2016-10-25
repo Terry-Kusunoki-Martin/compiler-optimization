@@ -1,0 +1,212 @@
+2016-04-29T23:32:15+00:00 flamingo#00 I: Runner: processes
+2016-04-29T23:32:15+00:00 flamingo#00 I: Chooser: simple
+2016-04-29T23:32:15+00:00 flamingo#00 I: Configuration suite_name = "suite"
+2016-04-29T23:32:15+00:00 flamingo#00 I: Configuration cache_filename = "/home/tkusuno1/cs75/labs/hundred-pacer-tkusuno1-tlai1/_build/oUnit-$(suite_name).cache"
+2016-04-29T23:32:15+00:00 flamingo#00 I: Configuration display = "true"
+2016-04-29T23:32:15+00:00 flamingo#00 I: Configuration results_style_1_X = "false"
+2016-04-29T23:32:15+00:00 flamingo#00 I: Configuration verbose = "false"
+2016-04-29T23:32:15+00:00 flamingo#00 I: Configuration health_check_interval = "1."
+2016-04-29T23:32:15+00:00 flamingo#00 I: Configuration testdata_dir = "none"
+2016-04-29T23:32:15+00:00 flamingo#00 I: Configuration chooser = "simple"
+2016-04-29T23:32:15+00:00 flamingo#00 I: Configuration output_html_dir = "none"
+2016-04-29T23:32:15+00:00 flamingo#00 I: Configuration processes_kill_period = "5."
+2016-04-29T23:32:15+00:00 flamingo#00 I: Configuration runner = "processes"
+2016-04-29T23:32:15+00:00 flamingo#00 I: Configuration shards = "4"
+2016-04-29T23:32:15+00:00 flamingo#00 I: Configuration processes_grace_period = "5."
+2016-04-29T23:32:15+00:00 flamingo#00 I: Configuration log_encoding = "utf-8"
+2016-04-29T23:32:15+00:00 flamingo#00 I: Configuration output_junit_file = "none"
+2016-04-29T23:32:15+00:00 flamingo#00 I: Configuration output_file = "/home/tkusuno1/cs75/labs/hundred-pacer-tkusuno1-tlai1/_build/oUnit-$(suite_name)-$(shard_id).log"
+2016-04-29T23:32:15+00:00 flamingo#00 I: Using 4 workers maximum.
+2016-04-29T23:32:15+00:00 flamingo#00 I: Starting worker number flamingo#01.
+2016-04-29T23:32:15+00:00 flamingo#00 I: Worker flamingo#01 started.
+2016-04-29T23:32:15+00:00 flamingo#00 I: Starting worker number flamingo#02.
+2016-04-29T23:32:15+00:00 flamingo#00 I: Worker flamingo#02 started.
+2016-04-29T23:32:15+00:00 flamingo#00 I: Starting worker number flamingo#03.
+2016-04-29T23:32:15+00:00 flamingo#00 I: Worker flamingo#03 started.
+2016-04-29T23:32:15+00:00 flamingo#00 I: Starting worker number flamingo#04.
+2016-04-29T23:32:15+00:00 flamingo#00 I: Worker flamingo#04 started.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:3:writeup2, suite:2:writeup1, suite:1:simple, suite:0:d0.
+2016-04-29T23:32:15+00:00 flamingo#01 I: Start test suite:0:d0.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:3:writeup2, suite:2:writeup1, suite:1:simple, suite:0:d0.
+2016-04-29T23:32:15+00:00 flamingo#01 I: Test suite:0:d0 is successful.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:3:writeup2, suite:2:writeup1, suite:1:simple, suite:0:d0.
+2016-04-29T23:32:15+00:00 flamingo#01 I: End test suite:0:d0.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:3:writeup2, suite:2:writeup1, suite:1:simple, suite:0:d0.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:4:tail_recursion, suite:3:writeup2, suite:2:writeup1, suite:1:simple.
+2016-04-29T23:32:15+00:00 flamingo#01 I: Start test suite:4:tail_recursion.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:4:tail_recursion, suite:3:writeup2, suite:2:writeup1, suite:1:simple.
+2016-04-29T23:32:15+00:00 flamingo#01 I: Test suite:4:tail_recursion is successful.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:4:tail_recursion, suite:3:writeup2, suite:2:writeup1, suite:1:simple.
+2016-04-29T23:32:15+00:00 flamingo#01 I: End test suite:4:tail_recursion.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:4:tail_recursion, suite:3:writeup2, suite:2:writeup1, suite:1:simple.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:5:lecture, suite:3:writeup2, suite:2:writeup1, suite:1:simple.
+2016-04-29T23:32:15+00:00 flamingo#01 I: Start test suite:5:lecture.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:5:lecture, suite:3:writeup2, suite:2:writeup1, suite:1:simple.
+2016-04-29T23:32:15+00:00 flamingo#01 I: Test suite:5:lecture is successful.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:5:lecture, suite:3:writeup2, suite:2:writeup1, suite:1:simple.
+2016-04-29T23:32:15+00:00 flamingo#01 I: End test suite:5:lecture.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:5:lecture, suite:3:writeup2, suite:2:writeup1, suite:1:simple.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:6:overloadd, suite:3:writeup2, suite:2:writeup1, suite:1:simple.
+2016-04-29T23:32:15+00:00 flamingo#01 I: Start test suite:6:overloadd.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:6:overloadd, suite:3:writeup2, suite:2:writeup1, suite:1:simple.
+2016-04-29T23:32:15+00:00 flamingo#01 I: Test suite:6:overloadd is successful.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:6:overloadd, suite:3:writeup2, suite:2:writeup1, suite:1:simple.
+2016-04-29T23:32:15+00:00 flamingo#01 I: End test suite:6:overloadd.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:6:overloadd, suite:3:writeup2, suite:2:writeup1, suite:1:simple.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:7:let_in_decl, suite:3:writeup2, suite:2:writeup1, suite:1:simple.
+2016-04-29T23:32:15+00:00 flamingo#01 I: Start test suite:7:let_in_decl.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:7:let_in_decl, suite:3:writeup2, suite:2:writeup1, suite:1:simple.
+2016-04-29T23:32:15+00:00 flamingo#01 I: Test suite:7:let_in_decl is successful.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:7:let_in_decl, suite:3:writeup2, suite:2:writeup1, suite:1:simple.
+2016-04-29T23:32:15+00:00 flamingo#01 I: End test suite:7:let_in_decl.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:7:let_in_decl, suite:3:writeup2, suite:2:writeup1, suite:1:simple.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:8:id_in_app, suite:3:writeup2, suite:2:writeup1, suite:1:simple.
+2016-04-29T23:32:15+00:00 flamingo#01 I: Start test suite:8:id_in_app.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:8:id_in_app, suite:3:writeup2, suite:2:writeup1, suite:1:simple.
+2016-04-29T23:32:15+00:00 flamingo#01 I: Test suite:8:id_in_app is successful.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:8:id_in_app, suite:3:writeup2, suite:2:writeup1, suite:1:simple.
+2016-04-29T23:32:15+00:00 flamingo#01 I: End test suite:8:id_in_app.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:8:id_in_app, suite:3:writeup2, suite:2:writeup1, suite:1:simple.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:9:top_level_if, suite:3:writeup2, suite:2:writeup1, suite:1:simple.
+2016-04-29T23:32:15+00:00 flamingo#01 I: Start test suite:9:top_level_if.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:9:top_level_if, suite:3:writeup2, suite:2:writeup1, suite:1:simple.
+2016-04-29T23:32:15+00:00 flamingo#01 I: Test suite:9:top_level_if is successful.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:9:top_level_if, suite:3:writeup2, suite:2:writeup1, suite:1:simple.
+2016-04-29T23:32:15+00:00 flamingo#01 I: End test suite:9:top_level_if.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:9:top_level_if, suite:3:writeup2, suite:2:writeup1, suite:1:simple.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:10:prim1s, suite:3:writeup2, suite:2:writeup1, suite:1:simple.
+2016-04-29T23:32:15+00:00 flamingo#01 I: Start test suite:10:prim1s.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:10:prim1s, suite:3:writeup2, suite:2:writeup1, suite:1:simple.
+2016-04-29T23:32:15+00:00 flamingo#01 I: Test suite:10:prim1s is successful.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:10:prim1s, suite:3:writeup2, suite:2:writeup1, suite:1:simple.
+2016-04-29T23:32:15+00:00 flamingo#01 I: End test suite:10:prim1s.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:10:prim1s, suite:3:writeup2, suite:2:writeup1, suite:1:simple.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:11:c0, suite:3:writeup2, suite:2:writeup1, suite:1:simple.
+2016-04-29T23:32:15+00:00 flamingo#01 I: Start test suite:11:c0.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:11:c0, suite:3:writeup2, suite:2:writeup1, suite:1:simple.
+2016-04-29T23:32:15+00:00 flamingo#01 I: Test suite:11:c0 is successful.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:11:c0, suite:3:writeup2, suite:2:writeup1, suite:1:simple.
+2016-04-29T23:32:15+00:00 flamingo#01 I: End test suite:11:c0.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:11:c0, suite:3:writeup2, suite:2:writeup1, suite:1:simple.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:12:simplec, suite:3:writeup2, suite:2:writeup1, suite:1:simple.
+2016-04-29T23:32:15+00:00 flamingo#01 I: Start test suite:12:simplec.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:12:simplec, suite:3:writeup2, suite:2:writeup1, suite:1:simple.
+2016-04-29T23:32:15+00:00 flamingo#01 I: Test suite:12:simplec is successful.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:12:simplec, suite:3:writeup2, suite:2:writeup1, suite:1:simple.
+2016-04-29T23:32:15+00:00 flamingo#01 I: End test suite:12:simplec.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:12:simplec, suite:3:writeup2, suite:2:writeup1, suite:1:simple.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:13:writeup1c, suite:3:writeup2, suite:2:writeup1, suite:1:simple.
+2016-04-29T23:32:15+00:00 flamingo#01 I: Start test suite:13:writeup1c.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:13:writeup1c, suite:3:writeup2, suite:2:writeup1, suite:1:simple.
+2016-04-29T23:32:15+00:00 flamingo#01 I: Test suite:13:writeup1c is successful.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:13:writeup1c, suite:3:writeup2, suite:2:writeup1, suite:1:simple.
+2016-04-29T23:32:15+00:00 flamingo#01 I: End test suite:13:writeup1c.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:13:writeup1c, suite:3:writeup2, suite:2:writeup1, suite:1:simple.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:14:writeup2c, suite:3:writeup2, suite:2:writeup1, suite:1:simple.
+2016-04-29T23:32:15+00:00 flamingo#01 I: Start test suite:14:writeup2c.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:14:writeup2c, suite:3:writeup2, suite:2:writeup1, suite:1:simple.
+2016-04-29T23:32:15+00:00 flamingo#01 I: Test suite:14:writeup2c is successful.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:14:writeup2c, suite:3:writeup2, suite:2:writeup1, suite:1:simple.
+2016-04-29T23:32:15+00:00 flamingo#01 I: End test suite:14:writeup2c.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:14:writeup2c, suite:3:writeup2, suite:2:writeup1, suite:1:simple.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:15:tail_recursion, suite:3:writeup2, suite:2:writeup1, suite:1:simple.
+2016-04-29T23:32:15+00:00 flamingo#01 I: Start test suite:15:tail_recursion.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:15:tail_recursion, suite:3:writeup2, suite:2:writeup1, suite:1:simple.
+2016-04-29T23:32:15+00:00 flamingo#01 I: Test suite:15:tail_recursion is successful.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:15:tail_recursion, suite:3:writeup2, suite:2:writeup1, suite:1:simple.
+2016-04-29T23:32:15+00:00 flamingo#01 I: End test suite:15:tail_recursion.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:15:tail_recursion, suite:3:writeup2, suite:2:writeup1, suite:1:simple.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:16:lecture, suite:3:writeup2, suite:2:writeup1, suite:1:simple.
+2016-04-29T23:32:15+00:00 flamingo#01 I: Start test suite:16:lecture.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:16:lecture, suite:3:writeup2, suite:2:writeup1, suite:1:simple.
+2016-04-29T23:32:15+00:00 flamingo#01 I: Test suite:16:lecture is successful.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:16:lecture, suite:3:writeup2, suite:2:writeup1, suite:1:simple.
+2016-04-29T23:32:15+00:00 flamingo#01 I: End test suite:16:lecture.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:16:lecture, suite:3:writeup2, suite:2:writeup1, suite:1:simple.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:17:overloadc, suite:3:writeup2, suite:2:writeup1, suite:1:simple.
+2016-04-29T23:32:15+00:00 flamingo#01 I: Start test suite:17:overloadc.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:17:overloadc, suite:3:writeup2, suite:2:writeup1, suite:1:simple.
+2016-04-29T23:32:15+00:00 flamingo#02 I: Start test suite:1:simple.
+2016-04-29T23:32:15+00:00 flamingo#03 I: Start test suite:2:writeup1.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:17:overloadc, suite:3:writeup2, suite:2:writeup1, suite:1:simple.
+2016-04-29T23:32:15+00:00 flamingo#02 I: Test suite:1:simple is successful.
+2016-04-29T23:32:15+00:00 flamingo#03 I: Test suite:2:writeup1 is successful.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:17:overloadc, suite:3:writeup2, suite:2:writeup1, suite:1:simple.
+2016-04-29T23:32:15+00:00 flamingo#02 I: End test suite:1:simple.
+2016-04-29T23:32:15+00:00 flamingo#03 I: End test suite:2:writeup1.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:17:overloadc, suite:3:writeup2, suite:2:writeup1, suite:1:simple.
+2016-04-29T23:32:15+00:00 flamingo#04 I: Start test suite:3:writeup2.
+2016-04-29T23:32:15+00:00 flamingo#00 I: Still 4 tests running : suite:19:prim1sc, suite:18:id_in_appc, suite:17:overloadc, suite:3:writeup2.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:19:prim1sc, suite:18:id_in_appc, suite:17:overloadc, suite:3:writeup2.
+2016-04-29T23:32:15+00:00 flamingo#04 I: Test suite:3:writeup2 is successful.
+2016-04-29T23:32:15+00:00 flamingo#02 I: Start test suite:19:prim1sc.
+2016-04-29T23:32:15+00:00 flamingo#00 I: Still 4 tests running : suite:19:prim1sc, suite:18:id_in_appc, suite:17:overloadc, suite:3:writeup2.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:19:prim1sc, suite:18:id_in_appc, suite:17:overloadc, suite:3:writeup2.
+2016-04-29T23:32:15+00:00 flamingo#04 I: End test suite:3:writeup2.
+2016-04-29T23:32:15+00:00 flamingo#03 I: Start test suite:18:id_in_appc.
+2016-04-29T23:32:15+00:00 flamingo#02 I: Test suite:19:prim1sc is successful.
+2016-04-29T23:32:15+00:00 flamingo#00 I: Still 4 tests running : suite:19:prim1sc, suite:18:id_in_appc, suite:17:overloadc, suite:3:writeup2.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 4 tests running: suite:19:prim1sc, suite:18:id_in_appc, suite:17:overloadc, suite:3:writeup2.
+2016-04-29T23:32:15+00:00 flamingo#02 I: End test suite:19:prim1sc.
+2016-04-29T23:32:15+00:00 flamingo#00 I: Still 3 tests running : suite:19:prim1sc, suite:18:id_in_appc, suite:17:overloadc.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 3 tests running: suite:19:prim1sc, suite:18:id_in_appc, suite:17:overloadc.
+2016-04-29T23:32:15+00:00 flamingo#00 I: Still 2 tests running : suite:18:id_in_appc, suite:17:overloadc.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 2 tests running: suite:18:id_in_appc, suite:17:overloadc.
+2016-04-29T23:32:15+00:00 flamingo#03 I: Test suite:18:id_in_appc is successful.
+2016-04-29T23:32:15+00:00 flamingo#00 I: Still 2 tests running : suite:18:id_in_appc, suite:17:overloadc.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 2 tests running: suite:18:id_in_appc, suite:17:overloadc.
+2016-04-29T23:32:15+00:00 flamingo#03 I: End test suite:18:id_in_appc.
+2016-04-29T23:32:15+00:00 flamingo#00 I: Still 2 tests running : suite:18:id_in_appc, suite:17:overloadc.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 2 tests running: suite:18:id_in_appc, suite:17:overloadc.
+2016-04-29T23:32:15+00:00 flamingo#00 I: Still 1 tests running : suite:17:overloadc.
+2016-04-29T23:32:15+00:00 flamingo#00 I: 1 tests running: suite:17:overloadc.
+2016-04-29T23:32:16+00:00 flamingo#00 I: Still 1 tests running : suite:17:overloadc.
+2016-04-29T23:32:16+00:00 flamingo#00 I: 1 tests running: suite:17:overloadc.
+2016-04-29T23:32:16+00:00 flamingo#01 I: Test suite:17:overloadc is successful.
+2016-04-29T23:32:16+00:00 flamingo#00 I: Still 1 tests running : suite:17:overloadc.
+2016-04-29T23:32:16+00:00 flamingo#00 I: 1 tests running: suite:17:overloadc.
+2016-04-29T23:32:16+00:00 flamingo#01 I: End test suite:17:overloadc.
+2016-04-29T23:32:16+00:00 flamingo#00 I: Still 1 tests running : suite:17:overloadc.
+2016-04-29T23:32:16+00:00 flamingo#00 I: 1 tests running: suite:17:overloadc.
+2016-04-29T23:32:16+00:00 flamingo#00 I: 0 tests running: .
+2016-04-29T23:32:16+00:00 flamingo#00 I: Worker flamingo#04 has ended.
+2016-04-29T23:32:17+00:00 flamingo#00 I: Worker flamingo#02 has ended.
+2016-04-29T23:32:17+00:00 flamingo#00 I: Worker flamingo#03 has ended.
+2016-04-29T23:32:17+00:00 flamingo#00 I: 0 tests running: .
+2016-04-29T23:32:17+00:00 flamingo#00 I: Worker flamingo#01 has ended.
+2016-04-29T23:32:17+00:00 flamingo#00 I: Used 4 worker during test execution.
+2016-04-29T23:32:17+00:00 flamingo#00 I: Run 1 tests with shard flamingo#04.
+2016-04-29T23:32:17+00:00 flamingo#00 I: Run 2 tests with shard flamingo#03.
+2016-04-29T23:32:17+00:00 flamingo#00 I: Run 15 tests with shard flamingo#01.
+2016-04-29T23:32:17+00:00 flamingo#00 I: Run 2 tests with shard flamingo#02.
+2016-04-29T23:32:17+00:00 flamingo#00 I: Check health of shard flamingo#01, 1 times.
+2016-04-29T23:32:17+00:00 flamingo#00 I: ==============
+2016-04-29T23:32:17+00:00 flamingo#00 I: Summary:
+2016-04-29T23:32:17+00:00 flamingo#00 I: Test suite:17:overloadc is successful.
+2016-04-29T23:32:17+00:00 flamingo#00 I: Test suite:18:id_in_appc is successful.
+2016-04-29T23:32:17+00:00 flamingo#00 I: Test suite:19:prim1sc is successful.
+2016-04-29T23:32:17+00:00 flamingo#00 I: Test suite:3:writeup2 is successful.
+2016-04-29T23:32:17+00:00 flamingo#00 I: Test suite:2:writeup1 is successful.
+2016-04-29T23:32:17+00:00 flamingo#00 I: Test suite:1:simple is successful.
+2016-04-29T23:32:17+00:00 flamingo#00 I: Test suite:16:lecture is successful.
+2016-04-29T23:32:17+00:00 flamingo#00 I: Test suite:15:tail_recursion is successful.
+2016-04-29T23:32:17+00:00 flamingo#00 I: Test suite:14:writeup2c is successful.
+2016-04-29T23:32:17+00:00 flamingo#00 I: Test suite:13:writeup1c is successful.
+2016-04-29T23:32:17+00:00 flamingo#00 I: Test suite:12:simplec is successful.
+2016-04-29T23:32:17+00:00 flamingo#00 I: Test suite:11:c0 is successful.
+2016-04-29T23:32:17+00:00 flamingo#00 I: Test suite:10:prim1s is successful.
+2016-04-29T23:32:17+00:00 flamingo#00 I: Test suite:9:top_level_if is successful.
+2016-04-29T23:32:17+00:00 flamingo#00 I: Test suite:8:id_in_app is successful.
+2016-04-29T23:32:17+00:00 flamingo#00 I: Test suite:7:let_in_decl is successful.
+2016-04-29T23:32:17+00:00 flamingo#00 I: Test suite:6:overloadd is successful.
+2016-04-29T23:32:17+00:00 flamingo#00 I: Test suite:5:lecture is successful.
+2016-04-29T23:32:17+00:00 flamingo#00 I: Test suite:4:tail_recursion is successful.
+2016-04-29T23:32:17+00:00 flamingo#00 I: Test suite:0:d0 is successful.
+2016-04-29T23:32:17+00:00 flamingo#00 I: Ran: 20 tests in: 1.54 seconds.
+2016-04-29T23:32:17+00:00 flamingo#00 I: Cases: 20.
+2016-04-29T23:32:17+00:00 flamingo#00 I: Tried: 20.
+2016-04-29T23:32:17+00:00 flamingo#00 I: Errors: 0.
+2016-04-29T23:32:17+00:00 flamingo#00 I: Failures: 0.
+2016-04-29T23:32:17+00:00 flamingo#00 I: Skip: 0.
+2016-04-29T23:32:17+00:00 flamingo#00 I: Todo: 0.
+2016-04-29T23:32:17+00:00 flamingo#00 I: Timeout: 0.

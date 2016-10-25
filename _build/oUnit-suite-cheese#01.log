@@ -1,0 +1,9 @@
+2016-04-28T01:16:21+00:00 cheese#01 I: Start test suite:0:d0.
+2016-04-28T01:16:21+00:00 cheese#01 I: Test suite:0:d0 is successful.
+2016-04-28T01:16:21+00:00 cheese#01 I: End test suite:0:d0.
+2016-04-28T01:16:21+00:00 cheese#01 I: Start test suite:4:tail_recursion.
+2016-04-28T01:16:21+00:00 cheese#01 I: Test suite:4:tail_recursion is successful.
+2016-04-28T01:16:21+00:00 cheese#01 I: End test suite:4:tail_recursion.
+2016-04-28T01:16:21+00:00 cheese#01 I: Start test suite:5:lecture.
+2016-04-28T01:16:21+00:00 cheese#01 I: Test suite:5:lecture is successful.
+2016-04-28T01:16:21+00:00 cheese#01 I: End test suite:5:lecture.
