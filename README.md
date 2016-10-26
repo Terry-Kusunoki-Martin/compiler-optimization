@@ -1,3 +1,5 @@
+This was a project in which I used extra registers and dependency graphs in order to shave off instructions in my compiler's compiled code.  The compiler my partner and I wrote is in compile.ml. The graph coloring algorithm we implemented to determine free registers is in color.ml. Test cases are written in test.ml. The description for this project from my instructor is copied below.
+
 # Hundred Pacer
 
 ![A sharp-nosed viper](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sharp-Nosed_Viper_01.jpg/1920px-Sharp-Nosed_Viper_01.jpg)
